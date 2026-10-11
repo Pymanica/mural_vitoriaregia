@@ -1,4 +1,4 @@
-o text
+o @
 o streamlit>=1.30.0
 o firebase-admin>=6.2.0
 
