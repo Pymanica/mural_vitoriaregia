@@ -1,12 +1,1 @@
-  [firebase]
-  "type" = "service_account" 
-  "project_id" = "muralcondoweb" 
-  "private_key_id" = "551588963c2238a944eb3f84ba2adac69e64bdef"
-  "private_key" = "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCj45jcQFv+AJS6\nB1v11+3gOzxzg7EEvamG+9miIbvusyv6rRm4yx0CZdmvkBGjzGuB5/Pcr/EEqbHy\nrHLcrJkxyCHfCLtrYKdcU0GoPlJunvUfAM41s6NQAJI42ImpUE7Ms0kTswLz2tu2\n5vJ68KPop7amY/GBHonmirBqYpth1XtFKSYPAsSnt+T85e1zjDirdEGvm8eABV91\n/uS7lCxxCYql88Zm/enfp73KoV/d+GmIadd0PYdS5zN0hhgj7RUsvxSjfviNU6AY\nci77knoFXiiTbCp60zZGjqydYPYgdLR+Ts5qaw6gnesBeuUBmBg7lQfX0b9qMh5G\n+CDfg069AgMBAAECggEAEGMckMFasW4rcOJ1foKFxYsGw2IinB++yMF8BGstGHQP\n7LPMQ58Dmo7GknhsWx2Ajm+8AZASIG47XdGCdrBHbSPexydfXiA++8tTYFhC886v\nIdd5xwLcTI6SEF8OfMCL8Inov7CBlhKHL6WuDz7qlMPYTpDlwAxmq4eoliqf8Ms3\n3nK49T1sQp65u9c3ZZS6hN8kxuzghCyaE5FWljfDKcxM1eAJCMD4fNSgWXKHyM/A\nY4C9RRhfp02Fc3WIAz0iqaEGtevQaQuJwI7gM92sohb75rlmRnpXo1/YF/ybkDfC\nAXmIcca5uiTZqXxfLcpBf/q03qoIW0GTxbGtDhMTHQKBgQDOm6p0T3rjrnbE4b1k\niSnq4PWjQgqNTW0FNJp7QolIgnyhMEqBF+jeAyZxnQ2fpxLMP+CSkoYC3IgcytIR\nQPUvxcpFaFexki3xieyjJfdSa4c9orV8dyy8Q1yNGBYRe1b3wvrHW6FZbbO+Eckz\nkqoYmPy+I3qjF+fYio8X2NtfQwKBgQDLEYs3+w13GlgLGwEHnWE+xCPX0Dj/trZE\ncy9ur5qtfauh2DrfoM7pzbHPg+r58NSc4fuV1UTKST5IWxBcVUUYMoCxHPlSltPY\nqovsYHOjrxs+oZfRS7P9Kxo8R6hvVhyseJ8Tn/1pYHF4DBgFL0YozTU45D01gf4N\nqmIhX7i5/wKBgEencylde0hFdIl5pN6eN3xvQqG5QMGazamVgdIn1EbigmjAv8Yf\nzbJZs1aJ2nS5U+qkaLVMvc92PnqF2O8E8UP9O9ZwhqFeCjMP25MFks3x3viAWqLt\nDgXI8us4JEcx2IqbA7BqVf4W7tSHhJkvT3Cydk1XLqwrmUvfWhsyKXrTAoGAQaYL\nTu6/nKiMnBJ/07liTctVFxj+xFSKOjjOtcbZh4rgKLNh3Rf8rINOH5szJNhhs9Iu\n5nKLCaaCFxwxftgmPTtedWO7iqKuHBaOo71OxTT/5tCQ5x3FM2xyz9gOsOey32Mj\nclG/uAhwxnGKdmqhEOG+egT3cMv0mPBjRwzOCHsCgYBl/nSvOHMYS5lcENpv2DoH\n5o5HNhZHohFzR2+2vwRy8FsUtpf6vcr0muQC9bdCYp1bPv6UWm6BiYpgbv0KktkS\nLy26VbXXi4plJHlF9Xhbr2xHCSWpyRgcUlJeV0KjeCYio6JrHL+GwY9v4n94PF/V\n2uKqmkuqWwK2nvARs46MQg==\n-----END PRIVATE KEY-----\n"
-  "client_email" = "firebase-adminsdk-fbsvc@muralcondoweb.iam.gserviceaccount.com"
-  "client_id" = "108455030296308230156"
-  "auth_uri" = "https://accounts.google.com/o/oauth2/auth" 
-  "token_uri" = "https://oauth2.googleapis.com/token"
-  "auth_provider_x509_cert_url" = "https://www.googleapis.com/oauth2/v1/certs"
-  "client_x509_cert_url" = "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40muralcondoweb.iam.gserviceaccount.com"
-  "universe_domain" = "googleapis.com"
+
