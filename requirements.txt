@@ -1,4 +1,0 @@
-streamlit>=1.30.0
-firebase-admin>=6.2.0
-flet
-
