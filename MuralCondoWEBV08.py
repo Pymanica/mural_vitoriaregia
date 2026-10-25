@@ -146,4 +146,3 @@ if st.session_state.item_excluir_id:
             st.session_state.item_excluir_titulo = None
             st.session_state.item_excluir_senha = None
             st.rerun()
-4) requirements.txt
