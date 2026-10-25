@@ -222,4 +222,5 @@ def main(page: ft.Page):
 
 if __name__ == "__main__":
     # Corrigido de ft.app para ft.run conforme as novas diretrizes do framework
-    ft.run(main, view=ft.AppView.WEB_BROWSER) #  Passe a função 'main' direto!)
+    # ft.run(main, view=ft.AppView.WEB_BROWSER) #  Passe a função 'main' direto!)
+    ft.run(main)
